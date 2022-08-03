@@ -1,4 +1,4 @@
-// For lab4 https://cs50.harvard.edu/x/2022/labs/4/
+// For lab 4 https://cs50.harvard.edu/x/2022/labs/4/
 // Modifies the volume of an audio file
 
 #include <stdint.h>

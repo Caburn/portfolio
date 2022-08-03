@@ -1,4 +1,4 @@
-# For pset6 https://cs50.harvard.edu/x/2022/psets/6/credit/
+# For problem set  https://cs50.harvard.edu/x/2022/psets/6/credit/
 # Asks the user for a credit card number and checks if it is valid using 
 # Luhn's algorithm and determines which card provider it belongs to 
 
